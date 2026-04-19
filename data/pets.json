@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Golden Retriever",
+    "description": "Friendly and loyal dog",
+    "age": "2 years"
+  },
+  {
+    "id": 2,
+    "title": "Persian Cat",
+    "description": "Calm and fluffy",
+    "age": "3 years"
+  },
+  {
+    "id": 3,
+    "title": "Parrot",
+    "description": "Can mimic sounds",
+    "age": "1 year"
+  },
+  {
+    "id": 4,
+    "title": "Rabbit",
+    "description": "Cute and quiet",
+    "age": "1 year"
+  },
+  {
+    "id": 5,
+    "title": "Hamster",
+    "description": "Small and active",
+    "age": "6 months"
+  }
+]

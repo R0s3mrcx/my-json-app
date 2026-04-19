@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain Trail",
+    "description": "Easy hiking route",
+    "category": "hiking"
+  },
+  {
+    "id": 2,
+    "title": "City Park",
+    "description": "Relax place",
+    "category": "leisure"
+  },
+  {
+    "id": 3,
+    "title": "Bike Route",
+    "description": "Cycling",
+    "category": "sport"
+  },
+  {
+    "id": 4,
+    "title": "Lake",
+    "description": "Nice view",
+    "category": "nature"
+  },
+  {
+    "id": 5,
+    "title": "Forest",
+    "description": "Trees and fresh air",
+    "category": "nature"
+  }
+]
